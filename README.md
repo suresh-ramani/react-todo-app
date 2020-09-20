@@ -4,7 +4,7 @@
 
 <!-- blank line -->
 <video controls="true" allowfullscreen="true" poster="video/thumb.png">
-	<source src="video/react-todo-app.webm" type="video/webm">
+	<source src="video/react-todo-app.mp4" type="video/mp4">
 </video>
 <!-- blank line --
 
