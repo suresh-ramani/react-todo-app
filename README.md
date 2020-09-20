@@ -3,11 +3,9 @@
 ## Demo
 
 <!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="video/thumb.png">
-    <source src="video/react-todo-app.webm" type="video/webm">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" poster="video/thumb.png">
+	<source src="video/react-todo-app.webm" type="video/webm">
+</video>
 <!-- blank line --
 
 ## Project setup
