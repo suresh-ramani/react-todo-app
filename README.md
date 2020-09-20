@@ -1,12 +1,6 @@
 ## Simple Todo App using React.js 🔥 + Firebase 💯
 
-## Demo
-
-<!-- blank line -->
-<video controls="true" allowfullscreen="true" poster="video/thumb.png">
-	<source src="video/react-todo-app.mp4" type="video/mp4">
-</video>
-<!-- blank line --
+## Demo [View Demo](https://youtu.be/kDfWssgckMg)
 
 ## Project setup
 
