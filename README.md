@@ -1,6 +1,6 @@
 ## Simple Todo App using React.js 🔥 + Firebase 💯
 
-[View Demo](https://youtu.be/kDfWssgckMg){:target="_blank" rel="noopener"}
+<a href="https://youtu.be/kDfWssgckMg" rel="noopener" target="_blank">View Demo</a>
 
 ## Project setup
 
